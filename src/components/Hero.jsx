@@ -64,10 +64,10 @@ const Hero = () => {
       id="profile"
       className="relative min-h-screen flex items-center justify-center overflow-hidden pt-16"
     >
-      {/* 🔥 Background Video */}
+      {/*  Background Video */}
       <video
         className="absolute inset-0 w-full h-full object-cover -z-20"
-        src="/assets/background.mp4"   // <-- place your video in public/assets
+        src="/assets/background.mp4" 
         autoPlay
         loop
         muted

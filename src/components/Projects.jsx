@@ -95,6 +95,24 @@ const Projects = () => {
       github: 'https://github.com/Sivananthini164/Piano_keyboard',
       demo: 'https://sivananthini164.github.io/Piano_keyboard/',
       tags: ['web', 'music']
+    },
+     {
+      id: 11,
+      title: 'Text to Speech Converter',
+      description: 'A simple and elegant Text to Speech (TTS) web application',
+      image: './assets/converter.png',
+      github: 'https://github.com/Sivananthini164/Converter',
+      demo: 'https://sivananthini164.github.io/Converter/',
+      tags: ['web', 'frontend']
+    },
+     {
+      id: 12,
+      title: 'Quote Generator',
+      description: 'Fetches a random quote from an API ',
+      image: './assets/quote.png',
+      github: 'https://github.com/Sivananthini164/Quote-',
+      demo: 'https://sivananthini164.github.io/Quote-/',
+      tags: ['web', 'frontend']
     }
   ];
 
